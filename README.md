@@ -24,3 +24,10 @@ sitting but complex enough to contain real, exploitable
 vulnerabilities across multiple layers.
 
 ## Vulnerabilities Found
+SQL Injection         (Critical)
+Hardcoded Secret Key  (High)
+Plaintext Passwords   (Critical)
+XSS Stored/Reflected  (High)
+Missing CSRF          (Medium)
+IDOR                  (High)
+Debug Mode Enabled    (Medium)
